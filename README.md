@@ -1,75 +1,41 @@
-# 👋 Hi, I'm Malak Khaled
+# >_This Is Mohamed Essam
 
-## 🚀 Senior Software Engineering Student @ King Salman International University (KSIU) – Egypt
+## >_Senior [Software Engineering](https://ksiu.edu.eg/el-tur/computer-science/computer-science-program/software-engineering/) Student @ [KSIU](https://ksiu.edu.eg/), Egypt
 
-💻 **Full Stack Developer | Next.js & Flutter**
-📌 Passionate about building scalable web & mobile applications and real-time smart infrastructure systems.
+> ### *Senior SE Student @ KSIU | Full Stack Developer Next.js & Flutter | Passionate about building scalable web & mobile apps | AI/ML enthusiast | Currently working on real-time smart infrastructure projects*
 
----
-
-## 🧑‍💻 About Me
-
-* 🎓 Senior Software Engineering student at KSIU
-* 🌍 Based in Egypt
-* 🛠 Currently working on real-time smart infrastructure & data-driven systems
-* 💡 Interested in: System Design, IoT, Smart Grids, and High-performance Applications
-
----
-
-## 🔗 Contact & Socials
+## >_Contact_Social_Info
 
 <p align="center">
-  <a href="mailto:malakkhaledme4@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-  <a href="https://www.linkedin.com/in/malak-khaled-2aaa86237/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://www.facebook.com/loka.maloka.9085/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" /></a>
-  <a href="https://www.instagram.com/maalakkhaleed/"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+  <a href="mailto:malakkhaledme4@gmail.com">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/malak-khaled-2aaa86237/">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+  </a>
+    <a href="https://www.facebook.com/loka.maloka.9085/">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/maalakkhaleed/">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" width="40" />
+  </a>
 </p>
 
----
-
-## 🧰 Tech Stack
-
-### Languages
+## >_Skills&Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,dart" />
+  <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,py,dart,git,github,mysql,postgres,firebase"/>
 </p>
-
-### Frameworks & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,react,flutter,express,vite,tailwind,git,github,firebase,mysql,postgres,vscode" />
+  <img align="center" src="https://skillicons.dev/icons?i=md,html,css,tailwind,js,ts,react,express,next,flutter,vite,vscode"/>
 </p>
 
----
+## *>_GitHub_Stats*
 
-## 📊 GitHub Analytics
+| ![Mohamed Essam's Github Stats](https://github-readme-stats.vercel.app/api?username=messams&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) | ![Mohamed Essam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=messams&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117) | ![Mohamed Essam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=messams&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true) |
+|:---:|:---:|:---:|
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="49%" />
-</p>
+|![.](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=messams&theme=github_dark)|![.](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=messams&theme=github_dark)|![.](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=messams&theme=github_dark)|![.](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=messams&theme=github_dark&utcOffset=3)|
+|:---:|:---:|:---:|:---:|
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" width="60%" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-* 🔹 **Smart Infrastructure Monitoring System** – Real-time data visualization using Flutter & IoT
-* 🔹 **University Management System** – Full Stack Web App (Next.js + PostgreSQL)
-* 🔹 **Portfolio Website** – Personal branding and project showcase
-
-*(Links can be added here)*
-
----
-
-## 📝 Quote
-
-> "Build systems that scale, code that lasts, and solutions that matter."
-
----
-
-⭐ Feel free to explore my repositories and connect with me!
+<img align="center" width="99%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=messams&theme=github_dark" alt="GitHub Profile Summary Card"/>
