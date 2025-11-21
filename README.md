@@ -33,10 +33,5 @@
   <div class="card"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malak-Khaled&layout=compact&theme=react&bg_color=0D1117&hide_border=true"/></div>
 </div>
 
-<div style="margin-top:15px" class="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malak-Khaled&theme=github_dark" style="width:100%;border-radius:10px"/>
-</div>
-
-</div>
 </body>
 </html>
