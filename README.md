@@ -30,7 +30,7 @@
 <h2>📊 GitHub Stats</h2>
 <div class="cards">
   <div class="card"><img src="https://github-readme-stats.vercel.app/api?username=Malak-Khaled&show_icons=true&theme=react&bg_color=0D1117&hide_border=true"/></div>
-  <div class="card"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malak-Khaled&layout=compact&theme=react&bg_color=0D1117&hide_border=true"/></div>
+  
 </div>
 
 </body>
