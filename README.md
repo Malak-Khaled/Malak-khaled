@@ -9,7 +9,7 @@
 <h2 class="center">📌 About Me</h2>
 <ul class="center">
   <li>👨‍💻 All of my projects: <a href="https://github.com/Malak-Khaled">github.com/Malak-Khaled</a></li>
-  <li>📫 Email: <strong>malakkhaledme4@gmail.com</strong></li>
+  <li>📫 Email: <a href="malakkhaledme4@gmail.com">malakkhaledme4@gmail.com</a></li>
 </ul>
 
 <h2 class="center">🤝 Connect With Me</h2>
@@ -31,7 +31,7 @@
 <h2 class="center">📊 GitHub Stats</h2>
 <div class="cards">
   <div class="card"><img src="https://github-readme-stats.vercel.app/api?username=Malak-Khaled&show_icons=true&theme=react&bg_color=0D1117&hide_border=true"/></div>
-  <div class="card"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malak-Khaled&layout=compact&theme=react&bg_color=0D1117&hide_border=true"/></div>
+ 
 </div>
 
 <div style="margin-top:15px" class="center">
