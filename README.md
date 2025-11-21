@@ -1,8 +1,8 @@
-# >_This Is Mohamed Essam
+# >_Hi , I'am Malak Khaled
 
 ## >_Senior [Software Engineering](https://ksiu.edu.eg/el-tur/computer-science/computer-science-program/software-engineering/) Student @ [KSIU](https://ksiu.edu.eg/), Egypt
 
-> ### *Senior SE Student @ KSIU | Full Stack Developer Next.js & Flutter | Passionate about building scalable web & mobile apps | AI/ML enthusiast | Currently working on real-time smart infrastructure projects*
+> ### *Senior SE Student @ KSIU | Full Stack Developer Next.js & Flutter | Passionate about building scalable web & mobile apps |Currently working on real-time smart infrastructure projects*
 
 ## >_Contact_Social_Info
 
