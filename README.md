@@ -1,24 +1,4 @@
-<!DOCTYPE html>
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Malak Khaled | Software Engineer</title>
-  <style>
-    body {font-family: Arial, sans-serif;background:#0d1117;color:#e6edf3;margin:0;padding:0}
-    a {color:#58a6ff;text-decoration:none}
-    .container {max-width:1100px;margin:auto;padding:20px}
-    h1,h2,h3 {color:#f0f6fc}
-    .center {text-align:center}
-    .socials img {margin:6px}
-    .icons img {margin:5px}
-    .cards {display:flex;flex-wrap:wrap;gap:15px;justify-content:center}
-    .card {background:#161b22;padding:10px;border-radius:10px}
-  </style>
-</head>
-<body>
-<div class="container">
 
 <h1 class="center">Hi 👋, I'm Malak Khaled</h1>
 <h3 class="center">Full Stack Developer (Next.js & Flutter) | Senior Software Engineering Student @ KSIU</h3>
