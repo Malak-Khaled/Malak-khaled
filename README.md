@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/maalakkhaleed/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
-#<h3> Skills&Tools</h3>
+<h3> Skills&Tools</h3>
 
 <p align="center">
   <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,py,dart,git,github,mysql,postgres,firebase"/>
