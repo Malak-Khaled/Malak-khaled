@@ -9,7 +9,7 @@
 <h2>📌 About Me</h2>
 <ul>
   <li>👨‍💻 All of my projects: <a href="https://github.com/Malak-Khaled">github.com/Malak-Khaled</a></li>
-  <li>📫 Email:<a href="malakkhaledme4@gmail.com">github.com/Malak-Khaled</a></li>
+  <li>📫 Email: <a href="malakkhaledme4@gmail.com">github.com/Malak-Khaled</a></li>
 </ul>
 
 <h2>🤝 Connect With Me</h2>
