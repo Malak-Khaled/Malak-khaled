@@ -5,13 +5,13 @@
 <p class="center"><em>Passionate about building scalable web & mobile apps | Working on real-time smart infrastructure projects</em></p>
 
 <hr/>
-
+<p align="center">
 <h2>📌 About Me</h2>
 <ul>
   <li>👨‍💻 All of my projects: <a href="https://github.com/Malak-Khaled">github.com/Malak-Khaled</a></li>
   <li>📫 Email: <a href="malakkhaledme4@gmail.com">malakkhaledme4@gmail.com</a></li>
 </ul>
-
+<p align="center">
 <h2>🤝 Connect With Me</h2>
 <p align="center">
 <p class="socials">
@@ -20,7 +20,7 @@
   <a href="https://www.facebook.com/loka.maloka.9085/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/></a>
   <a href="https://www.instagram.com/maalakkhaleed/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
-
+<p align="center">
 <h3> Skills&Tools</h3>
 
 <p align="center">
