@@ -1,7 +1,7 @@
 
 
 <h1 class="center">Hi 👋, I'm Malak Khaled</h1>
-<h3 class="center">Full Stack Developer (Next.js & Flutter) | Senior Software Engineering Student @ KSIU</h3>
+<h3 class="center">Full Stack Developer (Next.js & Flutter) | Software Engineer</h3>
 <p class="center"><em>Passionate about building scalable web & mobile apps | Working on real-time smart infrastructure projects</em></p>
 
 <hr/>
