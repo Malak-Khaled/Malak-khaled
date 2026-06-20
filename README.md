@@ -20,12 +20,18 @@
   <a href="https://www.instagram.com/maalakkhaleed/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
-<h2 class="center">🛠 Skills & Tools</h2>
 
+
+<!-- Technologies -->
+<h3 class="center">💻 Technologies</h3>
 <div class="icons center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,dart,git,github,mysql,postgres,firebase,docker,visualstudio,vscode" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,flutter,angular" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,dart,mysql,postgres,firebase,html,css,js,ts,flutter,angular" />
+</div>
+
+<!-- Tools -->
+<h3 class="center">🧰 Tools</h3>
+<div class="icons center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,visualstudio,vscode" />
 </div>
 
 <h2 class="center">📊 GitHub Stats</h2>
