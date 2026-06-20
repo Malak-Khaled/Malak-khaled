@@ -22,16 +22,17 @@
 
 
 
-<!-- Technologies -->
-<h3 class="center">💻 Technologies</h3>
 <div class="icons center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,dart,mysql,postgres,firebase,html,css,js,ts,flutter,angular" />
-</div>
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,dart,git,github,mysql" />
+  <br/>
 
-<!-- Tools -->
-<h3 class="center">🧰 Tools</h3>
-<div class="icons center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,visualstudio,vscode" />
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=postgres,firebase,docker,visualstudio,vscode,html,css,js" />
+  <br/>
+
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=ts,flutter,angular" />
 </div>
 
 <h2 class="center">📊 GitHub Stats</h2>
