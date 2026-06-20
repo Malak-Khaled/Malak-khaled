@@ -25,7 +25,7 @@
 <div class="icons center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,dart,git,github,mysql,postgres,firebase,docker,visualstudio,vscode" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,,js,ts,,flutter,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,flutter,angular" />
 </div>
 
 <h2 class="center">📊 GitHub Stats</h2>
