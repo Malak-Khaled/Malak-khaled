@@ -20,7 +20,7 @@
   <a href="https://www.instagram.com/maalakkhaleed/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
-
+<h2 class="center">🛠 Skills & Tools</h2>
 
 <div class="icons center">
   <!-- Row 1 -->
